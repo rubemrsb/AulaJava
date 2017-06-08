@@ -1,4 +1,3 @@
-package br.luis;
 
 public class Menu {
 	public void exibeMenu(){
